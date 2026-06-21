@@ -40,6 +40,10 @@ VIDEOS = [
     ("florin-tatulea-cold-email-secrets", "Florin Tatulea",
      "Cold Email Secrets from Outbound Expert Florin Tatulea",
      "aaFjjDBBEzk", "https://www.youtube.com/watch?v=aaFjjDBBEzk"),
+
+    ("ramli-john-onboarding-masterclass", "Ramli John",
+     "Onboarding Done Right: A Masterclass with Ramli John",
+     "Bifdm8y2Pww", "https://www.youtube.com/watch?v=Bifdm8y2Pww"),
 ]
 
 
